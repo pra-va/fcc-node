@@ -2,7 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Pranas Varaneckas",
 	"description": "Learning node through free code camp",
-	"keywords": ["learning", "node", "free code camp"],
+	"keywords": ["learning", "node", "free code camp", "freecodecamp"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
